@@ -1,4 +1,4 @@
-# Nagwa-Task
+# Nagwa-ui-automation-test-selenium
 Implementation of Q4 in Nagwa software QC engineer task
 
 This project is written in page object model framework using Maven, Selenium, Java, Testng. There are the five pages passed in requested scenario.
